@@ -1,7 +1,5 @@
 # Jinseong Lee's Github Account
 
----
-
 ## 🎓 Education Profile
 
 - **2025.09 ~ 2027.02 (Expected)**  
