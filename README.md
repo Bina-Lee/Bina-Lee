@@ -21,10 +21,6 @@
 
 - **Undergraduate Researcher**, Wireless Communication LAB (2022.12 ~ Present)  
 - Participated in multiple national research projects including:  
-  - Smart Beekeeping Systems for Climate Change  
-  - Abnormal Weather Response Monitoring  
-  - AI-based Curriculum Design Research  
-  - Vector Control Platform Using Convergence Technology  
 
 ---
 
