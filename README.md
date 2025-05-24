@@ -38,47 +38,6 @@ Since 2022, I’ve been conducting research as an **Undergraduate Researcher** a
 
 ---
 
-## 📝 Selected Publications and Presentations
-
-- **First-Author, Proceedings**  
-  -  _Clock-Signal-Based Pressure Sensor Array Circuit Design for Efficient Use of Microcontroller GPIO_  
-  **IEIE Summer Conference 2025**
-
-  -  _Architecture Design of an Intention-Aware Mobility Device Using Fixed-Handle Pressure Sensor Input_  
-  **KIIT Summer Conference 2025**
-
-  -  _Visualizing and Analysis of Cumulative Sum of Circular Centered on Data Points in Multi-Uniform Distribution Clusters in Space_
-  **KICS Winter Conference 2025**
-
-  -  _Detecting Overlapping Objects in Binary Images with Circular Kernel Convolution and Curve Tracing_  
-  **KIIT Summer Conference 2024**
-
-- **Presenter**  
-  _A Dedicated Algorithmic Process for Entry-Exit Counting of HoneyBees_  
-  **ASK Summer Conference 2024** [[Video](https://youtu.be/7h_TtrXsu5Y)]
-
-For more papers and videos, check my [YouTube Channel](https://www.youtube.com/channel/UCSIMSxdemFIK61lFj7x0XLw) and [DBpia Profile](https://www.dbpia.co.kr/author/authorDetail?ancId=5421847).
-
----
-
-## 🏆 Competition Projects
-
-- **Handle Pressure-Based Semi-Autonomous Walker**  
-  Team A#, 2024.08 ~ 2025.05  
-  Role: 3D Design, Firmware, Comprehensive Design  
-  [[GitHub Organization](https://github.com/Capstone-A-Sharp)]
-
-- **Drowning Rescue Wristband with Auto-Report System**  
-  Team Rubber Duck, 2023.09 ~ 2023.11  
-  Role: 3D Design, Comprehensive Design
-
-- **Len'Safe**  
-  Team Null, 2022.11 ~ 2022.12  
-  Role: Firmware, 3D Design, Comprehensive Design  
-  [[IdeaBoom](https://www.ideaboom.net/project/project/view?seq=1337)]
-
----
-
 ## 🛠 Skills
 
 - **Primary Languages**: C, C++, MATLAB  
