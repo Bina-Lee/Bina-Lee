@@ -10,8 +10,8 @@
 - **2022.03 ~ 2025.08**  
   B.E. in Embedded System Engineering  
   Incheon National University  
-  **Capstone Project**:
-    [_Semi-autonomous Walker Based on Handle Pressure Patterns_](https://github.com/Capstone-A-Sharp)
+  **Capstone Project**:  
+  [_Semi-autonomous Walker Based on Handle Pressure Patterns_](https://github.com/Capstone-A-Sharp)
 
 ---
 
