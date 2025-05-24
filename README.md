@@ -1,18 +1,8 @@
-# 👋 Hi, I'm Jinseong Lee
-
-I'm currently an **Integrated B.E./M.S. student** in the **Department of Embedded System Engineering** at **Incheon National University**.  
-My academic and research interests include:
-
-- Embedded Tiny Vision  
-- Vision Processing Algorithm  
-- Firmware and System-level Design  
-- Comprehensive Design of Embedded Systems
-
-Since 2022, I’ve been conducting research as an **Undergraduate Researcher** at the **Wireless Communication LAB**, where I focus on the intersection of embedded systems and intelligent sensing technologies.
+# Jinseong Lee's Github Account
 
 ---
 
-## 🎓 Education
+## 🎓 Education Profile
 
 - **2025.09 ~ 2027.02 (Expected)**  
   M.S. in Embedded System Engineering  
