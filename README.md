@@ -2,7 +2,7 @@
 
 ## 🎓 Education Profile
 
-- **2025.09 ~ 2027.02 (Expected)**  
+- **2025.09 ~ 2027.02**  
   M.S. in Embedded System Engineering  
   Incheon National University  
   (Integrated B.E./M.S. Course)
