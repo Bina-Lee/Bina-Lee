@@ -33,7 +33,7 @@
 
 ## 🔗 Contacts & Links
 
-- 📧 Email: awwdde22ljs@gmail.com / awwdde22ljs@inu.ac.kr  
+- 📧 Email: awwdde22ljs@gmail.com / binalee@inu.ac.kr
 - 🔗 [GitHub](https://github.com/Bina-Lee)  (Here)
 - 🔗 [YouTube Channel](https://www.youtube.com/channel/UCSIMSxdemFIK61lFj7x0XLw)  
 - 🔗 [DBpia Profile](https://www.dbpia.co.kr/author/authorDetail?ancId=5421847)
