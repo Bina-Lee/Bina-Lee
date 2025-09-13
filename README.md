@@ -17,7 +17,8 @@
 
 ## 🧪 Research Experience
 
-- **Undergraduate Researcher**, Wireless Communication LAB (2022.12 ~ Present)  
+- **Master's Student**, Wireless Communication LAB (Sep,2025-)
+- **Undergraduate Researcher**, Wireless Communication LAB (Dec,2022-Aug,2025)  
 - Participated in multiple national research projects including
 
 ---
